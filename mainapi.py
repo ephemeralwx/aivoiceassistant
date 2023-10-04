@@ -17,7 +17,8 @@ porcupine = pvporcupine.create(
 )
 
 leopard = pvleopard.create(access_key='H8GJLYocyCtrfBQFgUXj73P71rka1Lk5LUSbfPqpQPMD1CdnwZYCeA==')
-openai.api_key = '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'
+openai.api_key = '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'
+#new openai key 10/2 10:07 pm is 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
 engine = pyttsx3.init()
 
 audio = pyaudio.PyAudio()
